@@ -416,3 +416,24 @@ there.
 
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
+
+
+/*testing CSS override, unsure where to put yet */
+
+  a {
+    text-align: center;
+    outline: none;
+    display: inline-block;
+    text-decoration: none;
+    background: #fcca2f;
+    font-size: 14px;
+    color: black;
+    text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25);
+    -webkit-transition: all ease .3s;
+            transition: all ease .3s;
+  }
+
+beYellowPls{
+background-color: yellow;
+
+  }
